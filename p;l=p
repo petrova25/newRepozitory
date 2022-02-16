@@ -1,0 +1,6 @@
+public class Person
+{
+    public string FirstName { get; set; }
+
+    // remaining implementation removed from listing
+}
